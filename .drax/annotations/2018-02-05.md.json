@@ -1,0 +1,18 @@
+{
+  "parentCommit": "d0fac0954b51e8bbb545b2fb02511e7035eac6d8",
+  "annotations": [
+    {
+      "from": {
+        "line": 1,
+        "ch": 99
+      },
+      "to": {
+        "line": 2,
+        "ch": 34
+      },
+      "author": "bifurcation",
+      "timestamp": 1517855841498,
+      "text": "Huh, how do comments work?"
+    }
+  ]
+}
